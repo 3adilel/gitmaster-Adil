@@ -1,1 +1,1 @@
-# gjitmaster-nom
+# gitmaster-nom
